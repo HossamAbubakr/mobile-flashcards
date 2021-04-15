@@ -1,0 +1,20 @@
+{
+  "name": "mobile-flashcards",
+  "displayName": "mobile-flashcards",
+  "expo": {
+    "name": "mobile-flashcards",
+    "slug": "mobile-flashcards",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.hossam.flashcards",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.hossam.flashcards",
+      "versionCode": 1
+    }
+  }
+}
