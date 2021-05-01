@@ -12,7 +12,7 @@
 
 ## Summary
 
-Mobile Flashcards is a flashcards app made with React Native/Redux that I built to practice front end programming and React/Redux as part of my udacity nanodegree.
+Mobile Flashcards is a flashcards app made with React Native/Redux that I built to practice front end programming and React/Redux as part of my **React Nanodegree from Udacity**.
 
 It demonstrates my understanding of React native and its components,components life cycle, states and hooks. As well as my understanding ot Redux and its action creators, actions, reducers, helpers and context providers as well as Stack Navigation, Tab Navigation and parameterized navigation. 
 
